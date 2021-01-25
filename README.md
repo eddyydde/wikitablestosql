@@ -1,6 +1,6 @@
 # WikitablesToSQL
 
-WikitablesToSQL extracts the raw wikitables from the multistream database dump of the English Wikipedia and processes them into a sqlite3 database.
+WikitablesToSQL extracts and parses the raw wikitables from the multistream database dump of the English Wikipedia and processes them into a sqlite3 database.
 
 
 ## Requirements
