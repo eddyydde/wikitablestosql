@@ -41,7 +41,7 @@ The output filename will be of the form
 
 so for the given example we will obtain
 
-> enwiki-20201120-pages-articles-multistream.db
+> enwiki-20201220-pages-articles-multistream.db
 
 The database will contain the following 2 tables:
 
